@@ -1,0 +1,107 @@
+[
+  {
+    "titolo": "Perché Python è il linguaggio dell'AI",
+    "autore": "Anna Rossi",
+    "tags": [
+      "python",
+      "ai",
+      "tutorial"
+    ],
+    "views": 1240,
+    "lingua": "it"
+  },
+  {
+    "titolo": "Venice floods: a data-driven look",
+    "autore": "John Smith",
+    "tags": [
+      "venice",
+      "climate",
+      "data"
+    ],
+    "views": 890,
+    "lingua": "en"
+  },
+  {
+    "titolo": "Introduzione ai dizionari in Python",
+    "autore": "Marco Bianchi",
+    "tags": [
+      "python",
+      "tutorial"
+    ],
+    "views": 2100,
+    "lingua": "it"
+  },
+  {
+    "titolo": "Rare-earth-free magnets: the next revolution",
+    "autore": "Anna Rossi",
+    "tags": [
+      "materials",
+      "ai",
+      "energy"
+    ],
+    "views": 540,
+    "lingua": "en"
+  },
+  {
+    "titolo": "Come leggere un JSON",
+    "autore": "Giulia Verdi",
+    "tags": [
+      "python",
+      "json",
+      "tutorial"
+    ],
+    "views": 3050,
+    "lingua": "it"
+  },
+  {
+    "titolo": "The future of climate policy in Europe",
+    "autore": "John Smith",
+    "tags": [
+      "climate",
+      "policy"
+    ],
+    "views": 1780,
+    "lingua": "en"
+  },
+  {
+    "titolo": "Storia della laguna di Venezia",
+    "autore": "Marco Bianchi",
+    "tags": [
+      "venice",
+      "history"
+    ],
+    "views": 420,
+    "lingua": "it"
+  },
+  {
+    "titolo": "Machine learning for beginners",
+    "autore": "Giulia Verdi",
+    "tags": [
+      "ai",
+      "tutorial"
+    ],
+    "views": 4200,
+    "lingua": "en"
+  },
+  {
+    "titolo": "Energie rinnovabili: dove siamo",
+    "autore": "Anna Rossi",
+    "tags": [
+      "energy",
+      "climate",
+      "policy"
+    ],
+    "views": 760,
+    "lingua": "it"
+  },
+  {
+    "titolo": "Python data types cheat sheet",
+    "autore": "Marco Bianchi",
+    "tags": [
+      "python",
+      "tutorial"
+    ],
+    "views": 1550,
+    "lingua": "en"
+  }
+]
